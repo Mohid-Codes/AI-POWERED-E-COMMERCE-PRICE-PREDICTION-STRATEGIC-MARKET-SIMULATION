@@ -5,3 +5,4 @@
 # update 5 - Train baseline regression model
 # update 6 - Evaluate model performance metrics
 # update 7 - Tune model hyperparameters
+# update 8 - Save optimized prediction model
