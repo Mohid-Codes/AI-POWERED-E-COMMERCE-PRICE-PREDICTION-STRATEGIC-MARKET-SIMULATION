@@ -3,3 +3,4 @@
 # update 3 - Handle missing values and outliers
 # update 4 - Create feature extraction module
 # update 5 - Train baseline regression model
+# update 6 - Evaluate model performance metrics
