@@ -7,3 +7,4 @@
 # update 7 - Tune model hyperparameters
 # update 8 - Save optimized prediction model
 # update 9 - Implement price prediction API
+# update 10 - Create pricing optimization logic
