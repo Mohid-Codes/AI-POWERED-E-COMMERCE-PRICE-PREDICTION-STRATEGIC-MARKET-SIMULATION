@@ -12,3 +12,4 @@
 # update 12 - Design Streamlit dashboard
 # update 13 - Display predicted prices dynamically
 # update 14 - Add profit and revenue estimation
+# update 15 - Improve UI responsiveness
