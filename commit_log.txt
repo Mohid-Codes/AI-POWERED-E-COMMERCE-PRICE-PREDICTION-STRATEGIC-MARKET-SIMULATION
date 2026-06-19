@@ -10,3 +10,4 @@
 # update 10 - Create pricing optimization logic
 # update 11 - Add seller input interface
 # update 12 - Design Streamlit dashboard
+# update 13 - Display predicted prices dynamically
