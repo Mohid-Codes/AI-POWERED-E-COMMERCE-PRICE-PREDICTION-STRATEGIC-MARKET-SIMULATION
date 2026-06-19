@@ -14,3 +14,4 @@
 # update 14 - Add profit and revenue estimation
 # update 15 - Improve UI responsiveness
 # update 16 - Refactor preprocessing code
+# update 17 - Optimize model loading performance
